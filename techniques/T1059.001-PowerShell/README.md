@@ -30,7 +30,7 @@ Develop and validate a custom Elastic Security detection for PowerShell executio
 
 Atomic Red Team test executed:
 
-![1](.../screenshots/exec.png)
+![1](screenshots/exec.png)
 
 The test executes an obfuscated PowerShell command using the `-EncodedCommand` (`-e`) parameter, simulating a common attacker technique used to hide malicious PowerShell payloads.
 
