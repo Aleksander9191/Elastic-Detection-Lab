@@ -39,7 +39,7 @@ net localgroup
 
 ---
 
-![1](Elastic-Detection-Lab/techniques/T1087.001-Local-Account-Discovery/screenshots/execution.png)
+![1](../screenshots/execution.png)
 
 Atomic Red Team execution in PowerShell.
 
