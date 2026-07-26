@@ -75,7 +75,7 @@ Additionally, the rule specifically targets **very large Base64 payloads** by re
 | KEEP *
 ```
 
-![1](.../screenshots/prebuilt3.png)
+![1](screenshots/prebuilt3.png)
 
 Since the Atomic Red Team test generates a significantly shorter encoded command, the prebuilt rule did not trigger.
 
@@ -99,7 +99,7 @@ winlog.event_data.OriginalFileName:"PowerShell.EXE" and
 
 The rule detects PowerShell execution using encoded command-line parameters regardless of payload size.
 
-![1](.../screenshots/rule.png)
+![1](screenshots/rule.png)
 
 ---
 
@@ -113,7 +113,7 @@ Elastic Security successfully generated an alert:
 
 The generated alert matched the expected Sysmon Process Create event, confirming that the detection functions correctly.
 
-![1](.../screenshots/alert55.png)
+![1](screenshots/alert55.png)
 
 ---
 
