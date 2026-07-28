@@ -36,7 +36,7 @@ The captured telemetry showed:
 
 When the **Security** event log was cleared, Windows additionally generated **Security Event ID 1102 (The audit log was cleared)**, providing confirmation that the action completed successfully.
 
-### Investigation Screenshots
+
 
 #### Sysmon Process Create Event
 
