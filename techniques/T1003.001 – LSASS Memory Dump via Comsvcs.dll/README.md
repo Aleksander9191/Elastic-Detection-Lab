@@ -87,7 +87,7 @@ This approach significantly reduces false positives while accurately identifying
 # Custom Detection Rule
 
 
-![3](screenshots/custom1.png)
+![3](screenshots/custom.png)
 
 rule logic:
 
