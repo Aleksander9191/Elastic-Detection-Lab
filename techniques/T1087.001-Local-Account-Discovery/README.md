@@ -175,23 +175,13 @@ event.code:1 and (
 |---------|-----------|
 | Discovery | T1087.001 – Local Account Discovery |
 
-Severity:
 
-```
-Medium
-```
-
-Risk Score:
-
-```
-47
-```
 
 ---
 
 ![1](screenshots/custom4.png)
 
-Custom Elastic detection rule.
+
 
 
 
