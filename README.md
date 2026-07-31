@@ -38,8 +38,11 @@ Each technique follows the same workflow:
 | Technique | Status |
 |-----------|--------|
 | T1087.001 – Local Account Discovery | ✅ |
-| T1059.001 – PowerShell | 🚧 |
-
+| T1059.001 – PowerShell | ✅ |
+| T1110.001 - Password Guessing | ✅ |
+| T1218.010 - Regsvr32 Scriptlet Execution | ✅ |
+| T1105 - Ingress Tool Transfer | ✅ |
+| T1685.005 - Disable or Modify Tools: Clear Windows Event Logs | ✅ |
 ---
 
 ## Technologies
