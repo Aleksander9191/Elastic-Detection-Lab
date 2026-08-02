@@ -28,8 +28,11 @@ The detection was validated using **Atomic Red Team**.
 
 **Technique**
 
-```
-T1027
+The Atomic Red Team simulation was executed using the following command:
+
+```powershell
+PS C:\Users\Administrator> Invoke-AtomicTest T1027 -TestNumbers 11
+PathToAtomicsFolder = C:\AtomicRedTeam\atomics
 ```
 
 **Atomic Test**
