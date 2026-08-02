@@ -1,5 +1,17 @@
 # T1685.005 - Disable or Modify Tools: Clear Windows Event Logs
 
+# Lab Environment
+
+| Component | Value |
+|-----------|-------|
+| SIEM | Elastic Stack 9.4 |
+| Endpoint | Windows 10 Pro |
+| Telemetry | Sysmon + Elastic Agent |
+| Attack Framework | Atomic Red Team |
+| Technique | MITRE ATT&CK T1685.005 |
+
+---
+
 ## Attack Simulation
 
 This project demonstrates the simulation of MITRE ATT&CK technique **T1685.005 - Disable or Modify Tools: Clear Windows Event Logs** using Atomic Red Team.
