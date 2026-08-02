@@ -6,23 +6,15 @@ Develop and validate a custom Elastic Security detection for PowerShell executio
 
 ---
 
-## Lab Environment
+# Lab Environment
 
-- Windows Server 2022 (Active Directory)
-- Windows 10 Client
-- Ubuntu Server
-- Elastic Stack 9.4
-- Elastic Agent
-- Sysmon
-- Atomic Red Team
-
----
-
-## MITRE ATT&CK
-
-| Tactic | Technique |
-|---------|-----------|
-| Execution (TA0002) | T1059.001 – PowerShell |
+| Component | Value |
+|-----------|-------|
+| SIEM | Elastic Stack 9.4 |
+| Endpoint | Windows 10 Pro |
+| Telemetry | Sysmon + Elastic Agent |
+| Attack Framework | Atomic Red Team |
+| Technique | MITRE ATT&CK T1059.001 |
 
 ---
 
