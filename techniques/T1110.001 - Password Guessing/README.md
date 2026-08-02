@@ -7,6 +7,17 @@
 **Tactic:** Credential Access
 
 ---
+# Lab Environment
+
+| Component | Value |
+|-----------|-------|
+| SIEM | Elastic Stack 9.4 |
+| Endpoint | Windows 10 Pro |
+| Telemetry | Sysmon + Elastic Agent |
+| Attack Framework | Atomic Red Team |
+| Technique | MITRE ATT&CK T1110.001 |
+
+---
 
 # Attack Simulation
 
