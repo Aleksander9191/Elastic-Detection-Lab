@@ -19,7 +19,7 @@ Although the expected telemetry was successfully collected, the custom detection
 | Endpoint | Windows 10 Pro |
 | Telemetry | Sysmon + Elastic Agent |
 | Attack Framework | Atomic Red Team |
-| Technique | MITRE ATT&CK T1087.001 |
+| Technique | MITRE ATT&CK T1218.010 |
 
 ---
 
