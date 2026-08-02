@@ -43,6 +43,10 @@ Each technique follows the same workflow:
 | T1218.010 - Regsvr32 Scriptlet Execution | ✅ |
 | T1105 - Ingress Tool Transfer | ✅ |
 | T1685.005 - Disable or Modify Tools: Clear Windows Event Logs | ✅ |
+| T1003.001 – LSASS Memory Dump via Comsvcs.dll | ✅ |
+| T1564.001 – Hide Artifacts: Hidden Files and Directories | ✅ |
+| T1027 - PowerShell Character Array Obfuscation | ✅ |
+| T1053.005 - Scheduled Task | ✅ |
 ---
 
 ## Technologies
