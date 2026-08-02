@@ -10,12 +10,13 @@ The first rule detects modifications to Windows Explorer registry settings that 
 
 # Lab Environment
 
-- Elastic Stack (Elasticsearch + Kibana)
-- Elastic Agent
-- Sysmon
-- Windows 10 Endpoint
-- Atomic Red Team
-- Custom KQL Detection Rules
+| Component | Value |
+|-----------|-------|
+| SIEM | Elastic Stack 9.4 |
+| Endpoint | Windows 10 Pro |
+| Telemetry | Sysmon + Elastic Agent |
+| Attack Framework | Atomic Red Team |
+| Technique | MITRE ATT&CK T1087.001 |
 
 ---
 
