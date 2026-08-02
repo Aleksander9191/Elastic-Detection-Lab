@@ -11,6 +11,17 @@ During this project, the attack was successfully simulated using Atomic Red Team
 Although the expected telemetry was successfully collected, the custom detection could not be validated due to a detection gap identified during testing.
 
 ---
+# Lab Environment
+
+| Component | Value |
+|-----------|-------|
+| SIEM | Elastic Stack 9.4 |
+| Endpoint | Windows 10 Pro |
+| Telemetry | Sysmon + Elastic Agent |
+| Attack Framework | Atomic Red Team |
+| Technique | MITRE ATT&CK T1087.001 |
+
+---
 
 # Attack Simulation
 
